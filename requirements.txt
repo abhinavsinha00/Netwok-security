@@ -6,6 +6,8 @@ pymongo==4.17.0
 dnspython>=2.6.1
 certifi
 scikit-learn
+dill
+pyaml
 
 
 #-e .
